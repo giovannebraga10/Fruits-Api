@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TesteNegocieOnline.Controllers.FruitController",
+    "Method": "Get",
+    "RelativePath": "api/Fruit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TesteNegocieOnline.Controllers.FruitController",
+    "Method": "Get",
+    "RelativePath": "api/Fruit/{idfruit}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idfruit",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
